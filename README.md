@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Nityushapendyala/Nityushapendyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nityusha Pendyala 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Engineering, Backend Development and Problem Solving.
+
+## Technical Skills
+- Languages: C, C++, Python
+- Database: MySQL, PostgreSQL
+- Web Development: HTML, CSS, JavaScript, React.js, Node.js
+- Tools: Git, GitHub, VS Code
+
+## Current Focus
+- Strengthening Data Structures and Algorithms
+- Learning Backend Development
+- Building practical software projects
+- Exploring Software Engineering opportunities
+
+## Projects
+- Python Backend Learning Journey
+- Campus Lost & Found Portal
+
+## Connect with me
+- GitHub: [NityushaPendyala](https://github.com/Nityushapendyala)
